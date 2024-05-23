@@ -1,0 +1,144 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#reddy{
+    z-index: 1;
+}
+.deal {
+    color: #00ff00;
+    margin-left: 270px;
+}
+.absol {
+    margin-top: -330px;
+    width: 380px;
+    margin-left: 650px;
+    height: 390px;
+}
+.imageadjust {
+    width: 300px;
+    padding-left: 90px;
+}
+.Ends {
+    margin-left: 270px;
+    margin-top: 15px;
+}
+.hours {
+    margin-left: 310px;
+    margin-top: -30px;
+}
+#dropdownMenuLink:hover{
+    border-bottom: 2px solid rgb(10, 227, 10);
+}
+.footer {
+    background-color: #121212bf;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    color: rgb(190, 187, 187);
+}
+#na5{
+    color: rgb(190, 187, 187);
+    margin-left: -15px;
+    font-family: 10px;
+    font-family:Gilory Medium;
+}
+#na5:hover{
+    border-bottom: 0px solid white;
+}
+.flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    margin: 5px;
+  }
+
+@media screen  and (min-width:769px) and (max-width:1024px){
+    .deal {
+        color: #00ff00;
+        margin-left: 140px;
+    }
+    .Ends {
+        margin-left: 140px;
+        margin-top: 15px;
+    }
+    .hours {
+        margin-left: 180px;
+        margin-top: -30px;
+    }
+    .checked1 {
+        margin-left: 140px;
+     }
+     .absol{
+    margin-top: -320px;
+    width: 380px;
+    margin-left: 550px;
+    height: 400px;
+    }
+}
+@media screen  and (min-width:426px) and (max-width:768px){
+    .deal {
+        color: #00ff00;
+        margin-left: 0px;  
+        padding-top: 60px;
+    }
+    .Ends {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .hours {
+        margin-left: 40px;
+        margin-top: -30px;
+    }
+    .checked1 {
+        margin-left: 0px;
+     }
+     .absol{
+    margin-top: -320px;
+    width: 300px;
+    margin-left: 320px;
+    height: 370px;
+    }
+    .col-lg-4{
+        margin-top: 50px;
+    } */
+
+}
+@media screen  and (max-width:425px){
+    .deal {
+        color: #00ff00;
+        margin-left: 0px;  
+        padding-top: 60px;
+    }
+    .Ends {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .hours {
+        margin-left: 40px;
+        margin-top: -30px;
+    }
+    .checked1 {
+        margin-left: 0px;
+     }
+    .absol{
+        display: none;
+        /* margin-top: 0px;
+        width: 380px;
+        margin-left: 330px;
+        height: 320px; */
+        }
+      #naveen{
+        margin-left: 40px;
+        
+      } 
+      #mintu{
+        margin-left: 10px;
+      }
+    
+        
+
+    }

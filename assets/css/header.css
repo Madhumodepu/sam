@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+
+}
+#nav1{
+    height: 40px;
+    background-color: #121212bf;
+}
+#nav2{
+    font-size: 12px;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+#nav3{
+    background-color: #121212bf;
+    color: white;
+
+}
+#nav4{
+    color: white;
+}
+.navbar-brand{
+    margin-left: 200px;
+    color: white;
+}
+#nav-link{
+    
+    margin-left:0px;
+}
+#navbarNavAltMarkup{
+    padding: 0px;
+}
+.nav5{
+    height: 40px;
+    margin-left: 8px;
+}
+#nav6{
+    margin-left: 150px;
+}
+#nav7{
+    margin-left: 8px;
+}
+#nav8{
+    margin-left: 40px;
+    color: white;
+    padding: 0px;
+}
+#nav8:hover{
+    border-bottom: 1px solid rgb(16, 226, 9);
+}
+
+
+
+
+/* laptop view */
+@media screen and (min-width:769px) and (max-width:1024px) {
+    #nav2{
+        margin-left: 300px;
+    }
+    .navbar-brand{
+        margin: 0px;
+    }
+
+}
+/* 
+@media screen and (min-width:426px) and (max-width:769px){
+    #nav2{
+        margin-left: 300px;
+    }
+    .navbar-brand{
+        margin: 0px;
+    }  
+    .navbarNavAltMarkup{
+        margin: 0px;
+        color: blue;
+    }
+    #nav8{
+        width: 100px;
+    }
+} */

@@ -1,0 +1,24 @@
+.footer {
+    background-color: #121212bf;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    color: rgb(190, 187, 187);
+  }
+  #na5{
+    color: rgb(190, 187, 187);
+    margin-left: -15px;
+    font-family: 10px;
+    font-family:Gilory Medium;
+  }
+  #na5:hover{
+    border-bottom: 0px solid white;
+  }
+  .flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    margin: 5px;
+  }
